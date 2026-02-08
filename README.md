@@ -47,7 +47,7 @@ A pure frontend static demo (HTML5 + CSS3 + Vanilla JavaScript) that simulates a
 If you have GitHub CLI installed and authenticated, run:
 
 ```bash
-./publish.sh game-offer-wall
+./publish.sh codex-offerwall
 ```
 
 This script will initialize git (if needed), create the repo, push to GitHub, and enable Pages. It prints the public URL at the end.
